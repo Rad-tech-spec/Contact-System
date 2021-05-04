@@ -4,8 +4,8 @@ Description: This header file modularizes general helper functions to
 ----------------------------------------------------------------------*/
 
 
-// Hint:  This header file now has functions with parameters referring to 
-//        the struct Contact type so be sure to include the contacts.h header:
+//This header file now has functions with parameters referring to 
+//the struct Contact type so be sure to include the contacts.h header:
 #include "contacts.h"
 
 //--------------------------------
